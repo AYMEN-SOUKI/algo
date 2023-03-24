@@ -1,0 +1,13 @@
+1.  Créez une fonction appelée point_product qui prend deux vecteurs,  v 1 et  v2, en tant que paramètres.   
+2.  Initialiser une variable ps à 0. 
+3.  Pour chaque élément de v 1 et  v2, multipliez le  au    même index et ajoutez le résultat   au PS variable. 
+4.  Renvoie la valeur de ps.   
+5.  Créez une fonction appelée check_orthogonal qui prend un </b1<b196> 90>        
+    
+
+1.  Commencez      à partir du deuxième élément  d’un  tableau et   stockez-le  dans un courant variable. 
+ 2.  Comparez      l’élément actuel  avec les éléments précédents  du tableau.  
+3.  Si l’élément actuel  est plus petit que l’un des  éléments précédents ,    Échangez-les. 
+4.  Déplacer l’élément actuel  vers sa position correcte en déplaçant tout  le   éléments plus  grands que l’élément courant, à une position en avance. 
+5.  Répétez les étapes 2 - 4 jusqu’à ce que le tableau soit trié.
+6.  Renvoyer le tableau trié.
